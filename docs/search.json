@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Preliminary Findings",
+    "section": "",
+    "text": "How does participation in a virtual nature-based intervention prior to an exam affect nursing students’ perception of test-related anxiety, academic stress, self-reported resilience, academic performance, and their overall experience of the intervention?’"
+  },
+  {
+    "objectID": "index.html#research-question",
+    "href": "index.html#research-question",
+    "title": "Preliminary Findings",
+    "section": "",
+    "text": "How does participation in a virtual nature-based intervention prior to an exam affect nursing students’ perception of test-related anxiety, academic stress, self-reported resilience, academic performance, and their overall experience of the intervention?’"
+  },
+  {
+    "objectID": "index.html#hypotheses",
+    "href": "index.html#hypotheses",
+    "title": "Preliminary Findings",
+    "section": "Hypotheses",
+    "text": "Hypotheses\nParticipation in a virtual nature-based intervention prior to an exam significantly:\n\nH1: reduces nursing students’ perception of test-related anxiety,\nH2: increases self-reported resilience\nH3: improves academic performance\nH4: positively influences their overall experience of the intervention.\n\n\n\n\n\n\n\n\n\nPaired-Samples T-Test\n\n\nAll tests compares post-intervention scores to pre-intervention scores\n\n\n\nPretest\nPosttest\nDiff\ndf\nt\np\nCI[ll,uu]\n\n\n\n\nAcademic Stress\n40.432\n40.091\n−0.341\n43 \n−0.499\n0.62 \n[-1.72, 1.04]\n\n\nBRS\n19.75 \n19.659\n−0.091\n43 \n−0.248\n0.805\n[-0.83, 0.65]\n\n\nCompetency Test\n15.091\n16.477\n 1.386\n43 \n 3.502\n0.001\n[0.59, 2.18]\n\n\nTest Anxiety\n35.341\n34.614\n−0.727\n43 \n−1.048\n0.3  \n[-2.13, 0.67]\n\n\n\nCohen’s d: [-.02.-.04,-.07,.64]"
+  },
+  {
+    "objectID": "index.html#inferential-results",
+    "href": "index.html#inferential-results",
+    "title": "Preliminary Findings",
+    "section": "Inferential Results",
+    "text": "Inferential Results\nResults indicate that only H3 receives support as shown by a paired samples t-test, t(43) = 3.50, p = .001, d = .64, 95% CI[.59, 2.18].\nResults for H1, H2, and H4, all have p-values above the alpha of .05 and their confidence intervals include 0 as an estimate."
+  },
+  {
+    "objectID": "index.html#descriptive-statistics",
+    "href": "index.html#descriptive-statistics",
+    "title": "Preliminary Findings",
+    "section": "Descriptive Statistics",
+    "text": "Descriptive Statistics\n\nH5: A negative correlation is expected between test anxiety and exam scores\nH6: a positive correlation is anticipated between resilience and exam scores\n\n\n\n\n\n\n\n\n\nCorrelations Among Post-Test Scores\n\n\n\nCompetency Test\nText Anxiety\nBRS\nAcademic Stress\n\n\n\n\nCompetency Test\n--\n-0.06\n0.22\n0\n\n\nTest Anxiety\n-0.06\n--\n-0.57***\n0.62***\n\n\nBRS\n0.22\n-0.57***\n--\n-0.46**\n\n\nAcademic Stress\n0\n0.62***\n-0.46**\n--\n\n\n\n(**) Indicate p &lt;.05, (***) p&lt;.01\n\n\n\n\n\n\n\n\nNeither H5 or H6 are supported as their correlations are not statistically significant at \\(\\alpha = .05\\), [r(42) = .06, p &gt;.05], and [r(42) = .22, p &gt;.05]."
+  },
+  {
+    "objectID": "index.html#visualizations",
+    "href": "index.html#visualizations",
+    "title": "Preliminary Findings",
+    "section": "Visualizations",
+    "text": "Visualizations"
+  }
+]
